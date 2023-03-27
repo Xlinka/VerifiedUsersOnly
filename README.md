@@ -1,3 +1,8 @@
+## Credits
+
+This mod is based on the `NeosContactsMinus` mod by [Psychpsyo](https://github.com/Psychpsyo/NeosContactsMinus).
+
+
 # VerifiedUsersOnly Mod for Neos VR
 
 The `VerifiedUsersOnly` mod for Neos VR is a mod that allows only verified users to join a hosted world. This mod is useful for preventing unauthorized access to your world by requiring users to first verify their identity by checking against a api endpoint.
