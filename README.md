@@ -13,7 +13,7 @@ To install the `VerifiedUsersOnly` mod, follow these steps:
 
 1. Download the latest release of the mod from the [Releases](https://github.com/xLinka/VerifiedUsersOnly/releases) page.
 2. Extract the contents of the ZIP file to the `nml_mods` folder in your Neos VR installation directory.
-3. Start Neos VR and enable the mod in the mod manager.
+3. Start Neos VR and enable the mod in the mod config settings.
 
 ## Configuration
 
